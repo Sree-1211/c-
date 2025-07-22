@@ -1,0 +1,10 @@
+
+using System;
+public class Program 
+{
+    public static int CalcAge(int age) 
+    {
+			int day=age*365;
+			return day;
+    }
+}
